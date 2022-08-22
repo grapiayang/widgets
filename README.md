@@ -15,6 +15,14 @@ config setup
 ## 7. git config --global user.name "grapiayang"
 config setup
 ## 8. git remote add origin 주소
-
-commit(message, snapshot)
+git remote add origin https://github.com/grapiayang/bzer5001.git
+## 9. remote -v
+현재 레퍼토리 상황 주소
+## 10. git remote remove origin
+리모트 오리진 이 주소가 잘못 되었을 때 변경을 위해 오리진을 지운다 
+## 11. git remote add origin https://github.com/grapiayang/bzer5001.git
+기존 오리진이 지워졌으면 다시 설정할 오리진 을 설정한다
+## 12. git push origin master
+기존 파일들을 마스터로 올린다
+※ commit(message, snapshot)
 
