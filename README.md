@@ -6,9 +6,9 @@ homepee's widgets
 현재 폴더의 샘플 테스트 생성 
 ## 3. git status
 현재 상태 파악하기 
-## 4. git add sample.txt / 4번과 5번을 차례로 실행
+## 4. git add sample.txt / 4번과 5번과 12번을 차례로 실행
 git 에다가 샘플 텍스트를 올린다 
-## 5. git commit -m " 템플 퀘스트 설명을 올린다 'm'은 메세지" / 4번과 5번을 차례로 실행
+## 5. git commit -m " 템플 퀘스트 설명을 올린다 'm'은 메세지" / 4번과 5번과 12번을 차례로 실행
 commit 설명을 올린다 -m : 메시지
 ## 6. git config --global user.email "enterpia@naver.com"
 config setup
