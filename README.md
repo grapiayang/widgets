@@ -26,5 +26,6 @@ git remote add origin https://github.com/grapiayang/bzer5001.git
 기존 파일들을 마스터로 올린다
 ## 12. git pull origin master [다운로드] - 다운로드 먼저 해서 변경된 파일을 받은 후 코드를 추가하여 업로드하는 것을 원칙으로 한다
 기존 파일들을 마스터로 부터 다운로드 한다 
+## 13. 파일 생성, 추가, 커밋, 업로드 -> 다운로드[수정후], 추가, commit, 업로드
 ※ commit(message, snapshot)
 
