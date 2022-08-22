@@ -22,7 +22,9 @@ git remote add origin https://github.com/grapiayang/bzer5001.git
 리모트 오리진 이 주소가 잘못 되었을 때 변경을 위해 오리진을 지운다 
 ## 11. git remote add origin https://github.com/grapiayang/bzer5001.git
 기존 오리진이 지워졌으면 다시 설정할 오리진 을 설정한다
-## 12. git push origin master
+## 12. git push origin master [업로드]
 기존 파일들을 마스터로 올린다
+## 12. git pull origin master [다운로드] - 다운로드 먼저 해서 변경된 파일을 받은 후 코드를 추가하여 업로드하는 것을 원칙으로 한다
+기존 파일들을 마스터로 부터 다운로드 한다 
 ※ commit(message, snapshot)
 
